@@ -12,8 +12,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="right" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/junjiitomanga/images/3/3a/P7.jpg/revision/latest?cb=20200717145744">
-
 </div>
   
   ##
