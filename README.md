@@ -1,7 +1,7 @@
 ### Luan Costa de Oliveira
 
 <div align="left">
-  🖖 <h4>Olá, meu nome é Luan Costa. Sou Desenvolvedor Laravel.</h4>
+  <p>🖖Olá, meu nome é Luan Costa. Sou Desenvolvedor Laravel.</p>
   <br><br>
   ☕ <b>Habilidades: HTML, CSS, PHP, MySQL, Laravel e Versionamento com Git.</b>
   <br><br>
