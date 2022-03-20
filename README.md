@@ -2,7 +2,8 @@
 
 <div align="left">
   <p> 👨🏻‍💻 Olá, meu nome é Luan Costa. Sou <b>Desenvolvedor Laravel</b>. Estou cursando Cursando <br>
-    Ensino Superior de <b>Tecnologia em Análise e Desenvolvimento de Sistemas</b> no Centro Universitário SENAC - Santo Amaro.</p>
+    Ensino Superior de <b>Tecnologia em Análise e Desenvolvimento de Sistemas</b> <br> 
+    no Centro Universitário SENAC - Santo Amaro.</p>
   <br>
   <p> ☕ Habilidades: <b>HTML, CSS, PHP, MySQL, Laravel e Versionamento com Git</b>.</p>
   <br>
