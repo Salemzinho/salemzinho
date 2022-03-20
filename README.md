@@ -2,7 +2,7 @@
 
 <div align="left">
   <p>🖖Olá, meu nome é Luan Costa. Sou Desenvolvedor Laravel.</p>
-  <br><br>
+  <br>
   ☕ <b>Habilidades: HTML, CSS, PHP, MySQL, Laravel e Versionamento com Git.</b>
   <br><br>
 </div>
