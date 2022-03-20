@@ -1,15 +1,12 @@
 ### Luan Costa de Oliveira
 
-<div align="center">
-  🖖 Olá, meu nome é Iuri Silva. Sou Front-end developer e UI Designer.
+<div align="left">
+  🖖 <b>Olá, meu nome é Luan Costa. Sou Desenvolvedor Laravel Estagiário.</b>
 
-  ☕ Habilidades: HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, TypeScript, Next.js e Styled Components.
+  ☕ <b>Habilidades: HTML, CSS, MySQL, Laravel, PHP, Git.</b>
 
-  💼 Ferramentas: VS Code, Figma, Trello, Jira, Vercel, Git e GitHub.
 </div>
-<div style="display: inline_block"><br>
- 
-</div>
+
   
   ##
  
