@@ -1,7 +1,7 @@
 <img src="texugo-dois-logo.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo">
 
 <div align="left">
-  <p> 👨🏻‍💻 Olá, meu nome é Luan Costa. Sou <b>Desenvolvedor Laravel</b>. Estou cursando <br>
+  <p> 👨🏻‍💻 Olá, meu nome é Luan Costa e sou <b>Desenvolvedor Laravel</b>. Estou cursando <br>
     Ensino Superior de <b>Tecnologia em Análise e Desenvolvimento de Sistemas</b> <br> 
     no Centro Universitário SENAC - Santo Amaro.</p>
   <br>
