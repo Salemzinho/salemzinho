@@ -2,9 +2,9 @@
 
 <div align="left">
   🖖 <b style="font-size: 14px">Olá, meu nome é Luan Costa. Sou Desenvolvedor Estagiário.</b>
-  <br><br><br>
+  <br><br>
   ☕ <b>Habilidades: HTML, CSS, MySQL, Laravel, PHP, Git.</b>
-  <br>
+  <br><br>
 </div>
 
   
