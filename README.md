@@ -1,4 +1,4 @@
-  <img src="undraw_Developer_activity_re_39tg.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo">
+  <img src="texugo-dois-logo.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo">
 
 
   <p align="left"> 👨🏻‍💻 Olá, meu nome é Luan Costa e sou <b>Desenvolvedor Laravel</b>. Estou cursando <br>
