@@ -1,4 +1,4 @@
-  <img src="logo.png" min-width="250px" max-width="350px" width="350px" align="right" alt="Logo">
+  <!--<img src="logo.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo">-->
 
 
   <p align="left"> 👨🏻‍💻 Olá, meu nome é Luan Costa e sou <b>Desenvolvedor Laravel</b>. Estou cursando <br>
