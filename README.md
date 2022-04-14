@@ -1,8 +1,8 @@
   <img src="undraw_programming_re_kg9v.svg" min-width="250px" max-width="250px" width="350px" align="right" alt="Logo">
 
 
-  <p align="left"> 👨🏻‍💻 Olá, meu nome é Luan Costa e sou <b>Desenvolvedor Laravel</b>. Estou cursando <br>
-    Ensino Superior de <b>Tecnologia em Análise e Desenvolvimento de Sistemas</b> <br> 
+  <p align="left"> 👨🏻‍💻 Olá, meu nome é Luan Costa e sou <b>Desenvolvedor Laravel</b>. Estou cursando 
+    Ensino Superior de <b>Tecnologia em Análise e Desenvolvimento de Sistemas</b> 
     no Centro Universitário SENAC - Santo Amaro.</p>
   <br>
   <p align="left"> ☕ Habilidades: <b>HTML, CSS, PHP, MySQL, Laravel e Versionamento com Git</b>.</p>
