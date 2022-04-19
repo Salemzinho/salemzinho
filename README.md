@@ -14,15 +14,15 @@
  
 <p align="left">
   <a href="https://www.youtube.com/channel/UC7qDGDYZ28c8sDYRKjYF9Og" target="_blank">
-     <img src="https://img.shields.io/badge/YouTube-00ff5f?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+     <img src="https://img.shields.io/badge/YouTube-32cd32?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/luan_carstairs" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-00ff5f?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-32cd32?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-00ff5f?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-32cd32?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a> 
   <a href="https://www.linkedin.com/in/luan-costa-de-oliveira-349519200" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-00ff5f?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-32cd32?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </p>
