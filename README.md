@@ -7,7 +7,7 @@
   <br>
   <p align="left"> ☕ Habilidades: <b>HTML, CSS, PHP, MySQL, Laravel e Versionamento com Git</b>.</p>
   <br>
-  <p align="left" > 🧡 Desenvolvedor Web na <b>ImóvelP</b>.</p>
+  <p align="left" > 🧡 Desenvolvedor Web na <b>Imóvelp</b>.</p>
 
 
   ##
