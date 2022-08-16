@@ -1,7 +1,3 @@
-  <link href="http://fonts.cdnfonts.com/css/varta-2" rel="stylesheet">
-  <style>
-  * font-family: 'Varta', sans-serif;
-  </style>
   <img src="undraw_laravel_and_vue_-59-tp.svg" min-width="250px" max-width="250px" width="350px" align="right" alt="Logo">
 
 
