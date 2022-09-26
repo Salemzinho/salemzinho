@@ -5,7 +5,7 @@
     Ensino Superior de <b>Tecnologia em Análise e Desenvolvimento de Sistemas</b> 
     no Centro Universitário SENAC - Santo Amaro.</p>
   <br>
-  <p align="left"> ☕ Habilidades: <b>PHP, Laravel, SQL, HTML, CSS, e Versionamento com Git</b>.</p>
+  <p align="left"> ☕ Habilidades: <b>Java, Spring Boot, SQL, HTML, CSS, e Versionamento com Git</b>.</p>
   <br>
   <p align="left" > 🧡 Desenvolvedor Full Stack Jr. na <b>Imóvelp</b>.</p>
 
