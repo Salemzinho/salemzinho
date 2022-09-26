@@ -1,4 +1,4 @@
-  <img src="undraw_laravel_and_vue_-59-tp.svg" min-width="250px" max-width="250px" width="350px" align="right" alt="Logo">
+  <img src="undraw_Developer_activity_re_39tg.png" min-width="250px" max-width="250px" width="350px" align="right" alt="Logo">
 
 
   <p align="left"> 👨🏻‍💻 Olá, meu nome é Luan Costa e sou <b>Desenvolvedor</b>. Estou cursando 
