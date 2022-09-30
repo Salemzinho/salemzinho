@@ -2,8 +2,7 @@
 
 
 ### 👨🏻‍💻 Olá, meu nome é Luan Costa e sou <b>Desenvolvedor</b> de Software. 
-__Exercendo atividades na área de desenvolvimento de software desde 2021, com foco em sistemas front-end e back-end para sites e aplicações. Estou cursando Ensino Superior de <b>Tecnologia em Análise e Desenvolvimento de Sistemas</b> no Centro Universitário SENAC - Santo Amaro.</p>
-__🧡 Atualmente assumo a posição de Desenvolvedor Full Stack Jr. na Imóvelp.
+__Estou cursando Ensino Superior de <b>Tecnologia em Análise e Desenvolvimento de Sistemas</b> no Centro Universitário SENAC - Santo Amaro.</p>
 
 ### Habilidades ☕
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
@@ -11,6 +10,10 @@ __🧡 Atualmente assumo a posição de Desenvolvedor Full Stack Jr. na Imóvelp
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
   
+### __🧡 Desenvolvedor Full Stack Jr. na <b>Imóvelp</b>.</p>
+
+
+  ##
  
 <p align="left">
   <a href="https://www.youtube.com/channel/UC7qDGDYZ28c8sDYRKjYF9Og" target="_blank">
