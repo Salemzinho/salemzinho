@@ -1,8 +1,8 @@
   <!--<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" min-width="250px" max-width="350px" width="360px" align="right" alt="Logo">-->
 
 
-### 👨🏻‍💻 Olá, meu nome é Luan Costa e sou <b>Desenvolvedor</b> de Software. 
-__Estou cursando Ensino Superior de <b>Tecnologia em Análise e Desenvolvimento de Sistemas</b> no Centro Universitário SENAC - Santo Amaro.</p>
+### 👨🏻‍💻 Olá, meu nome é Luan Costa e sou Desenvolvedor de Software. 
+__Exercendo atividades na área de desenvolvimento de software desde 2021, com foco em sistemas front-end e back-end para sites e aplicações. Estou cursando Ensino Superior deTecnologia em Análise e Desenvolvimento de Sistemas no Centro Universitário SENAC - Santo Amaro. Atualmente assumo o cargo de Desenvolvedor Full Stack Jr na Imóvelp.
 
 ### Habilidades ☕
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
@@ -10,7 +10,6 @@ __Estou cursando Ensino Superior de <b>Tecnologia em Análise e Desenvolvimento 
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
   
-### __🧡 Desenvolvedor Full Stack Jr. na <b>Imóvelp</b>.</p>
 
 
   ##
