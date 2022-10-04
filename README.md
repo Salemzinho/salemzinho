@@ -1,5 +1,5 @@
 ### 👨🏻‍💻 Olá, meu nome é Luan Costa e sou Desenvolvedor de Software. 
-__Exercendo atividades na área de desenvolvimento de software desde 2021, com foco em sistemas front-end e back-end para sites e aplicações. Estou cursando Ensino Superior deTecnologia em Análise e Desenvolvimento de Sistemas no Centro Universitário SENAC - Santo Amaro. Atualmente assumo o cargo de Desenvolvedor Full Stack Jr na startup Imóvelp.__
+__Exercendo atividades na área de desenvolvimento de software desde 2021, com foco em sistemas front-end e back-end para sites e aplicações. Estou cursando Ensino Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no Centro Universitário SENAC - Santo Amaro. Atualmente assumo o cargo de Desenvolvedor Full Stack Jr na startup Imóvelp.__
 
 <br>
 
@@ -13,7 +13,7 @@ __Exercendo atividades na área de desenvolvimento de software desde 2021, com f
 
 <br>
 
- ### Redes Sociais 🤝
+### Redes Sociais 🤝
 <a href="https://www.youtube.com/channel/UC7qDGDYZ28c8sDYRKjYF9Og" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-8a67f9?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
 </a>
