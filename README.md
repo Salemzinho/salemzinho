@@ -3,6 +3,12 @@ __Exercendo atividades na área de desenvolvimento de software desde 2021, com f
 
 <br>
 
+### Certificações
+<a href="https://www.youtube.com/channel/UC7qDGDYZ28c8sDYRKjYF9Og" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-8a67f9?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+</a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7f5f5ca2-d9f5-45bc-995e-7703e7a9e47e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### Habilidades ☕
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
 ![Spring](https://img.shields.io/badge/spring-%4479A1.svg?style=for-the-badge&logo=spring&logoColor=white&color=6aad3d)
