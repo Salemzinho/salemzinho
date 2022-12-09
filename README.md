@@ -12,7 +12,7 @@ __Exercendo atividades na área de desenvolvimento de software desde 2021, com f
 <img src="/aws-cloud-practitioner.png" target="_blank" width="130" />
 </a>
 
-<br>
+<br><br>
 
 ### Habilidades ☕
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
