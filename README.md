@@ -5,14 +5,14 @@ __Exercendo atividades na área de desenvolvimento de software desde 2021, com f
 
 ### Certificações
 <a href="https://www.credly.com/badges/7f5f5ca2-d9f5-45bc-995e-7703e7a9e47e/public_url" target="_blank">
-<img src="/azure-ai.png" target="_blank" width="100" />
+<img src="/azure-ai.png" target="_blank" width="120" />
 </a>
 
 <a href="https://www.credly.com/badges/30e59e50-7099-47ec-9ef1-b64d8b47406b/public_url" target="_blank">
-<img src="/aws-cloud-practitioner.png" target="_blank" width="100" />
+<img src="/aws-cloud-practitioner.png" target="_blank" width="120" />
 </a>
 
-
+<br>
 
 ### Habilidades ☕
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
