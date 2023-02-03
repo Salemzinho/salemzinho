@@ -1,5 +1,5 @@
 ### 👨🏻‍💻 Olá, eu sou Luan!
-<img src="/avatar.png" alt="header - imagem banner para github (Luan Costa)">
+<!-- <img src="/avatar.png" alt="header - imagem banner para github (Luan Costa)"> -->
 
 __Com vasta experiência no mercado de desenvolvimento de software desde 2021. Foco em sistemas front-end e back-end para sites e aplicações. Graduado em Análise e Desenvolvimento de Sistemas (SENAC - 2022).__
 
