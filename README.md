@@ -1,4 +1,5 @@
-### 👨🏻‍💻 Olá, meu nome é Luan Costa e sou Desenvolvedor de Software. 
+### 👨🏻‍💻 Olá, eu sou Luan!
+<img src="/avatar.png" alt="header - imagem banner para github (Luan Costa)">
 __Com vasta experiência no mercado de desenvolvimento de software desde 2021, com foco em sistemas front-end e back-end para sites e aplicações. Graduado em Análise e Desenvolvimento de Sistemas (SENAC - 2022). Atualmente assumo o cargo de Desenvolvedor Full Stack Jr na startup Imóvelp.__
 
 ### Certificações
