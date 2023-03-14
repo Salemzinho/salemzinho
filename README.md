@@ -1,9 +1,8 @@
 ### 👨🏻‍💻 Olá, eu sou Luan!
 <!-- <img src="/avatar.png" alt="header - imagem banner para github (Luan Costa)"> -->
 
-<ul>
-  <li>__Desenvolvedor de software apaixonado por aprender cada vez mais sobre tecnologia da informação. Graduado em Análise e Desenvolvimento de Sistemas (SENAC - 2022) com Extensão Universitária em Soluções de Segurança da Informação. Com vasta experiência no mercado de desenvolvimento de software desde 2021, com foco em sistemas front-end e back-end para sites e aplicações.__</li>
-  </ul>
+__Desenvolvedor de software apaixonado por aprender cada vez mais sobre tecnologia da informação. Graduado em Análise e Desenvolvimento de Sistemas (SENAC - 2022) com Extensão Universitária em Soluções de Segurança da Informação. Com vasta experiência no mercado de desenvolvimento de software desde 2021, com foco em sistemas front-end e back-end para sites e aplicações.__
+ 
 
 
 ### Certificações
