@@ -1,7 +1,11 @@
 ### 👨🏻‍💻 Olá, eu sou Luan!
 <!-- <img src="/avatar.png" alt="header - imagem banner para github (Luan Costa)"> -->
 
-__Desenvolvedor de software apaixonado por aprender cada vez mais sobre tecnologia da informação. Graduado em Análise e Desenvolvimento de Sistemas (SENAC - 2022) com Extensão Universitária em Soluções de Segurança da Informação. Com vasta experiência no mercado de desenvolvimento de software desde 2021, com foco em sistemas front-end e back-end para sites e aplicações.__
+__Desenvolvedor de software apaixonado por aprender cada vez mais sobre tecnologia da informação. Graduado em Análise e Desenvolvimento de Sistemas (SENAC - 2022) com Extensão Universitária em Soluções de Segurança da Informação.
+
+Criando sistemas e realizando manutenções para softwares back-end e front-end de desde 2021. Atualmente estou me aprofundando em construção de Web APIs e microserviços. Faz parte da minha rotina como desenvolvedor: PHP, Laravel, MySQL, HTML5, CSS3 e Versionamento com Git.
+
+Desde sempre fui aficionado pelo mundo da tecnologia da informação e ainda muito novo encontrei minha vocação, ser um engenheiro de software. Meu objetivo dentro da área é desenvolver soluções para usuários por meio da programação e da internet..__
  
 
 
