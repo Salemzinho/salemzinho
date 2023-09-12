@@ -21,8 +21,8 @@ __Desde sempre fui aficionado pelo mundo da tecnologia da informação e ainda m
 <br><br>
 
 ### Habilidades ☕
-![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
-![Spring](https://img.shields.io/badge/spring-%4479A1.svg?style=for-the-badge&logo=spring&logoColor=white&color=6aad3d)
+![PHP](https://img.shields.io/badge/php-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
+![Laravel](https://img.shields.io/badge/laravel-%4479A1.svg?style=for-the-badge&logo=spring&logoColor=white&color=6aad3d)
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
