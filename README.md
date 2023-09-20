@@ -3,7 +3,7 @@
 
 __Desenvolvedor de software apaixonado por aprender cada vez mais sobre tecnologia da informação. Graduado em Análise e Desenvolvimento de Sistemas (SENAC - 2022) com Extensão Universitária em Soluções de Segurança da Informação.__
 
-__Criando sistemas e realizando manutenções para softwares back-end e front-end de desde 2021. Atualmente estou me aprofundando em construção de Web APIs e microserviços. Faz parte da minha rotina como desenvolvedor: PHP, Laravel, MySQL, HTML5, CSS3 e Versionamento com Git.__
+__Criando sistemas e realizando manutenções para softwares back-end e front-end desde 2021. Atualmente estou me aprofundando em construção de APIs e microserviços. Faz parte da minha rotina como desenvolvedor: PHP, Laravel, MySQL, HTML5, CSS3 e Versionamento com Git.__
 
  <br>
 
