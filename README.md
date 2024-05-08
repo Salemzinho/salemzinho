@@ -12,6 +12,10 @@ __Criando sistemas e realizando manutenções para softwares back-end e front-en
 <img src="/azure-ai.png" target="_blank" width="130" />
 </a>
 
+<a href="https://learn.microsoft.com/pt-br/users/luancostadeoliveira-9896/credentials/60f05f83b6d09f93" target="_blank">
+<img src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" target="_blank" width="130" />
+</a>
+
 <a href="https://www.credly.com/badges/30e59e50-7099-47ec-9ef1-b64d8b47406b/public_url" target="_blank">
 <img src="/aws-cloud-practitioner.png" target="_blank" width="130" />
 </a>
